@@ -1,1 +1,3 @@
-Welcome to my website. Here I will be creating a webiste and updating it as I progress through my bootcamp.
+# Personal-Website
+
+My name is Michael and this is my personal website. Here, you will be able to find thing about me and projects I have worked on. I will be updating this, periodically, throughout my time in this bootcamp.
