@@ -28,6 +28,16 @@ main {
     text-align: center;
 }
 
+/* Form field */
+
+.messagefield {
+    font-size: 18px;
+    height: 200px;
+    width: 200px;
+    margin-top: 8px;
+    margin-bottom: 40px;
+}
+
 /* Grid Container */
 
 .grid-container {
